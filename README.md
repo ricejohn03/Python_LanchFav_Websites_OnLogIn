@@ -7,11 +7,11 @@ Download both app.py and favorite-websites.txt and put them in a location you ca
 
 Change and edit the favorite-websites.txt to what your are.
 
-![alt text](https://imgur.com/UruR5Yx) 
+![alt text](https://i.imgur.com/UruR5Yx.jpg) 
 
 after that head over to computer management in windows and click Task Scheduler and click create a basic task
 
-![alt text](https://imgur.com/a/TlryFrf)
+![alt text](https://i.imgur.com/4Al46eI.jpg)
 
 
 Label the Task whatever you would like and click Next 
@@ -19,18 +19,18 @@ Label the Task whatever you would like and click Next
 
 Click the action "When I log on Action"
 
-![alt text](https://imgur.com/a/ovIJArX)
+![alt text](https://i.imgur.com/5TGvYxr.jpg)
 
 
 Click Choose "Start a program" and click "Next" 
 
-![alt text](https://imgur.com/a/mYtnrtP)
+![alt text](https://i.imgur.com/WeQN3GI.jpg)
 
 
 Now in the the program search input bar put Your computers local path your python.exe
 For the Arguments   input bar you need to put the location on disk of app.py file 
 
-![alt text](https://imgur.com/a/n8fNQlf)
+![alt text](https://i.imgur.com/1WX7BtU.jpg)
 
 
 Click "Next & Finish" 
