@@ -7,7 +7,7 @@ Download both app.py and favorite-websites.txt and put them in a location you ca
 
 Change and edit the favorite-websites.txt to what your are.
 
-![alt text](https://i.imgur.com/UruR5Yx.jpg) 
+![alt text](https://i.imgur.com/97w0ADC.jpg) 
 
 after that head over to computer management in windows and click Task Scheduler and click create a basic task
 
